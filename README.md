@@ -1,5 +1,5 @@
-# xyeffect.github.io
-Instructions for Running the Visualization Locally
+# Instructions for Running the Visualization Locally
+
 
 Please follow these step-by-step instructions to view the visualization website on your computer:
 
